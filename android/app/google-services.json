@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763611957566",
+    "project_id": "lets-chat-8759e",
+    "storage_bucket": "lets-chat-8759e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763611957566:android:3fefea971109ae07d3046f",
+        "android_client_info": {
+          "package_name": "Suyog.example.lets_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763611957566-rdjnlk7orpk2ft0gvtkmovnodos4376f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2u0qDrcso_Qy_gvJKDCJ5pzBPfDApr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763611957566-rdjnlk7orpk2ft0gvtkmovnodos4376f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
